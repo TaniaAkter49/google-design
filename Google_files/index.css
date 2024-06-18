@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial;
+}
+.Google{
+    width: 590px;
+    
+    margin: 160px auto 0px;
+
+}
+.Google img{
+    display: block;
+    margin: auto;
+}
+.Google input{
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 15px 20px;
+    box-sizing: border-box;
+    border-radius: 50px;
+    margin: 20px 0px;
+}
+.button_area{
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+.Google .button_area button{
+    display: inline-block;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+.Google p{
+    text-align: center;
+
+}
